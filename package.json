@@ -1,7 +1,7 @@
 {
-  "name": "dab-enterprise-backend",
+  "name": "fab-enterprise-backend",
   "version": "1.0.0",
-  "description": "Backend API for DAB Enterprise Ltd Business Management System",
+  "description": "Backend API for FAB Enterprise Ltd Business Management System",
   "main": "src/server.js",
   "type": "module",
   "scripts": {
